@@ -1,6 +1,6 @@
 # oxpasta
 
-A minimal shell script for interacting with a [rustypaste](https://github.com/orhun/rustypaste) server
+[oxpasta](https://github.com/rskntroot/oxpasta) is a minimal shell script for interacting with a [rustypaste](https://github.com/orhun/rustypaste) server
 
 ## Brief
 
